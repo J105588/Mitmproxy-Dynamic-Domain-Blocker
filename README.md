@@ -32,10 +32,10 @@ Webブラウザの管理画面から、指定したドメインリストのブ�
 まず、このプロジェクトのファイル一式をPCに配置します。
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/J105588/Mitmproxy-Dynamic-Domain-Blocker.git
+cd Mitmproxy-Dynamic-Domain-Blocker
 ```
-または、ZIPファイルをダウンロードして解凍します。
+または、ファイルをダウンロードします。
 
 ### 2. 必要なPythonライブラリのインストール
 
